@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bwmarrin/discordgo"
+	"github.com/auttaja/discordgo"
 )
 
 // Paginator provides a method for creating a navigatable embed

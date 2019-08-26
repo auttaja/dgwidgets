@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bwmarrin/discordgo"
+	"github.com/auttaja/discordgo"
 )
 
 // error vars

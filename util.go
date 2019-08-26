@@ -1,7 +1,7 @@
 package dgwidgets
 
 import (
-	"github.com/bwmarrin/discordgo"
+	"github.com/auttaja/discordgo"
 )
 
 // NextMessageCreateC returns a channel for the next MessageCreate event
